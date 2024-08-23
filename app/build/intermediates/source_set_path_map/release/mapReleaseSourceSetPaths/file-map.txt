@@ -1,0 +1,53 @@
+com.android.onlineshoppingapp-emoji2-views-helper-1.2.0-0 /Users/bhardwaj/.gradle/caches/transforms-4/03a38659ace9b8a4ec8b05e21f8068da/transformed/emoji2-views-helper-1.2.0/res
+com.android.onlineshoppingapp-activity-1.8.0-1 /Users/bhardwaj/.gradle/caches/transforms-4/0f211729a7ac040121a261519f3ec083/transformed/activity-1.8.0/res
+com.android.onlineshoppingapp-firebase-common-21.0.0-2 /Users/bhardwaj/.gradle/caches/transforms-4/176891fffb5f7e862cb84b4af6f8320f/transformed/firebase-common-21.0.0/res
+com.android.onlineshoppingapp-startup-runtime-1.1.1-3 /Users/bhardwaj/.gradle/caches/transforms-4/1fbe53f0a2c89935012e6e0bfcadfdf3/transformed/startup-runtime-1.1.1/res
+com.android.onlineshoppingapp-play-services-base-18.3.0-4 /Users/bhardwaj/.gradle/caches/transforms-4/20c4e95075d337dca293f13f28fa5cb2/transformed/play-services-base-18.3.0/res
+com.android.onlineshoppingapp-play-services-auth-21.1.1-5 /Users/bhardwaj/.gradle/caches/transforms-4/22983bf8735c9fb69dff543c96c0423a/transformed/play-services-auth-21.1.1/res
+com.android.onlineshoppingapp-recyclerview-1.3.2-6 /Users/bhardwaj/.gradle/caches/transforms-4/2c6e482e9cc6ab669a2b45f886571106/transformed/recyclerview-1.3.2/res
+com.android.onlineshoppingapp-play-services-measurement-api-22.0.0-7 /Users/bhardwaj/.gradle/caches/transforms-4/2f6340b8c71ef0540fb59fbaec601935/transformed/play-services-measurement-api-22.0.0/res
+com.android.onlineshoppingapp-credentials-play-services-auth-1.2.0-rc01-8 /Users/bhardwaj/.gradle/caches/transforms-4/3aa3dd1c2db3d9e40f05b05b898ee48a/transformed/credentials-play-services-auth-1.2.0-rc01/res
+com.android.onlineshoppingapp-viewpager2-1.1.0-beta02-9 /Users/bhardwaj/.gradle/caches/transforms-4/3d5f6e82fac7b3f9a684c4ea135aa79a/transformed/viewpager2-1.1.0-beta02/res
+com.android.onlineshoppingapp-core-1.13.0-10 /Users/bhardwaj/.gradle/caches/transforms-4/3dfa82af89ca251ba171be9cfe731ecf/transformed/core-1.13.0/res
+com.android.onlineshoppingapp-material-1.12.0-11 /Users/bhardwaj/.gradle/caches/transforms-4/43085e1951f1b7bba75a37b3dc9f9eab/transformed/material-1.12.0/res
+com.android.onlineshoppingapp-ads-adservices-1.0.0-beta05-12 /Users/bhardwaj/.gradle/caches/transforms-4/4fb84afdd3a6a4b5b1f3983d696e014b/transformed/ads-adservices-1.0.0-beta05/res
+com.android.onlineshoppingapp-core-runtime-2.2.0-13 /Users/bhardwaj/.gradle/caches/transforms-4/5a26d643d84652f77968fe72919704e2/transformed/core-runtime-2.2.0/res
+com.android.onlineshoppingapp-roundedimageview-2.3.0-14 /Users/bhardwaj/.gradle/caches/transforms-4/67ac8dd82b1850843f08b2f05df51cd4/transformed/roundedimageview-2.3.0/res
+com.android.onlineshoppingapp-drawerlayout-1.1.1-15 /Users/bhardwaj/.gradle/caches/transforms-4/6845a4d42b121203d0385c807cb1194a/transformed/drawerlayout-1.1.1/res
+com.android.onlineshoppingapp-lifecycle-viewmodel-2.6.2-16 /Users/bhardwaj/.gradle/caches/transforms-4/694e3a01ce563acaffcc93f5772430e2/transformed/lifecycle-viewmodel-2.6.2/res
+com.android.onlineshoppingapp-play-services-basement-18.3.0-17 /Users/bhardwaj/.gradle/caches/transforms-4/6aebc38504d108419d9a3b0b3a063757/transformed/play-services-basement-18.3.0/res
+com.android.onlineshoppingapp-android-sdk-5.5.1-18 /Users/bhardwaj/.gradle/caches/transforms-4/890195cf495fb956e17ea0bfc9521e08/transformed/android-sdk-5.5.1/res
+com.android.onlineshoppingapp-circleindicator-2.1.6-19 /Users/bhardwaj/.gradle/caches/transforms-4/9939e7d7184853ad25a934714fde49ef/transformed/circleindicator-2.1.6/res
+com.android.onlineshoppingapp-constraintlayout-2.1.4-20 /Users/bhardwaj/.gradle/caches/transforms-4/99a4d46710c9fd3deb511ebfa85fa3cd/transformed/constraintlayout-2.1.4/res
+com.android.onlineshoppingapp-play-services-wallet-19.3.0-21 /Users/bhardwaj/.gradle/caches/transforms-4/a3d548ce0f11ab405b50dbd278aa9a52/transformed/play-services-wallet-19.3.0/res
+com.android.onlineshoppingapp-fragment-1.5.7-22 /Users/bhardwaj/.gradle/caches/transforms-4/a503ad6a1fce8a80055869afd93432bb/transformed/fragment-1.5.7/res
+com.android.onlineshoppingapp-swiperefreshlayout-1.2.0-alpha01-23 /Users/bhardwaj/.gradle/caches/transforms-4/a7b075cdbf9bff504506fcabbc2e862a/transformed/swiperefreshlayout-1.2.0-alpha01/res
+com.android.onlineshoppingapp-ads-adservices-java-1.0.0-beta05-24 /Users/bhardwaj/.gradle/caches/transforms-4/aa18dbe4d8e9d1b7f863088ab4c2b325/transformed/ads-adservices-java-1.0.0-beta05/res
+com.android.onlineshoppingapp-appcompat-1.6.1-25 /Users/bhardwaj/.gradle/caches/transforms-4/b0fd54a8405c88b5f580d0d47cdc05a1/transformed/appcompat-1.6.1/res
+com.android.onlineshoppingapp-appcompat-resources-1.6.1-26 /Users/bhardwaj/.gradle/caches/transforms-4/b43bb29ca8e901ea11171cad43ec5313/transformed/appcompat-resources-1.6.1/res
+com.android.onlineshoppingapp-glide-4.16.0-27 /Users/bhardwaj/.gradle/caches/transforms-4/bbd3c04bdc90b41aae715e58134ff5c0/transformed/glide-4.16.0/res
+com.android.onlineshoppingapp-savedstate-1.2.1-28 /Users/bhardwaj/.gradle/caches/transforms-4/bdaa38cd20ff7a9cc7ebb355b372d477/transformed/savedstate-1.2.1/res
+com.android.onlineshoppingapp-lifecycle-process-2.6.2-29 /Users/bhardwaj/.gradle/caches/transforms-4/c268ba1650741ef9c052dfc23a487174/transformed/lifecycle-process-2.6.2/res
+com.android.onlineshoppingapp-lifecycle-runtime-2.6.2-30 /Users/bhardwaj/.gradle/caches/transforms-4/c28900973d70d5d0860c3c911239c2b3/transformed/lifecycle-runtime-2.6.2/res
+com.android.onlineshoppingapp-cardview-1.0.0-31 /Users/bhardwaj/.gradle/caches/transforms-4/c3e783df84a2267a50af706178a97ca4/transformed/cardview-1.0.0/res
+com.android.onlineshoppingapp-transition-1.5.0-32 /Users/bhardwaj/.gradle/caches/transforms-4/c8a5523deef8c44e2dc5dd176d3bc7ec/transformed/transition-1.5.0/res
+com.android.onlineshoppingapp-media-1.0.0-33 /Users/bhardwaj/.gradle/caches/transforms-4/ca6bc4fc9b6a6ddbe4908146cbbee21c/transformed/media-1.0.0/res
+com.android.onlineshoppingapp-lifecycle-livedata-core-2.6.2-34 /Users/bhardwaj/.gradle/caches/transforms-4/cc039adb8b0dd78906de69a0c3c8e478/transformed/lifecycle-livedata-core-2.6.2/res
+com.android.onlineshoppingapp-profileinstaller-1.3.0-35 /Users/bhardwaj/.gradle/caches/transforms-4/cc381ef5e9fd4835ea25689d66330fd9/transformed/profileinstaller-1.3.0/res
+com.android.onlineshoppingapp-emoji2-1.2.0-36 /Users/bhardwaj/.gradle/caches/transforms-4/d83adf651d6db645fbe39cea4e8ab08f/transformed/emoji2-1.2.0/res
+com.android.onlineshoppingapp-core-ktx-1.13.0-37 /Users/bhardwaj/.gradle/caches/transforms-4/e0c809698aa9647b56df5bc4fe700572/transformed/core-ktx-1.13.0/res
+com.android.onlineshoppingapp-play-services-maps-18.0.2-38 /Users/bhardwaj/.gradle/caches/transforms-4/e37be263f26e12ce7411aa9c59cb94b8/transformed/play-services-maps-18.0.2/res
+com.android.onlineshoppingapp-customview-poolingcontainer-1.0.0-39 /Users/bhardwaj/.gradle/caches/transforms-4/e445a80c332c1fa56f00071d78935c67/transformed/customview-poolingcontainer-1.0.0/res
+com.android.onlineshoppingapp-credentials-1.2.0-rc01-40 /Users/bhardwaj/.gradle/caches/transforms-4/e46704919637f130d51c639d731c2b60/transformed/credentials-1.2.0-rc01/res
+com.android.onlineshoppingapp-annotation-experimental-1.4.0-41 /Users/bhardwaj/.gradle/caches/transforms-4/e68b5f584ad7fa0090e468e0b72407c8/transformed/annotation-experimental-1.4.0/res
+com.android.onlineshoppingapp-lifecycle-viewmodel-savedstate-2.6.2-42 /Users/bhardwaj/.gradle/caches/transforms-4/fa4f57c4acc3201f9e351c0b49ac3462/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.android.onlineshoppingapp-browser-1.4.0-43 /Users/bhardwaj/.gradle/caches/transforms-4/fcfa1de7f74c6a41ece227c57071bee9/transformed/browser-1.4.0/res
+com.android.onlineshoppingapp-coordinatorlayout-1.1.0-44 /Users/bhardwaj/.gradle/caches/transforms-4/fec7d8f78cf8138f45f5c60cd81e0d4d/transformed/coordinatorlayout-1.1.0/res
+com.android.onlineshoppingapp-pngs-45 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/pngs/release
+com.android.onlineshoppingapp-res-46 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/processReleaseGoogleServices
+com.android.onlineshoppingapp-resValues-47 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/resValues/release
+com.android.onlineshoppingapp-packageReleaseResources-48 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/release/packageReleaseResources/merged.dir
+com.android.onlineshoppingapp-packageReleaseResources-49 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/release/packageReleaseResources/stripped.dir
+com.android.onlineshoppingapp-release-50 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.android.onlineshoppingapp-main-51 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/res
+com.android.onlineshoppingapp-release-52 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/release/res

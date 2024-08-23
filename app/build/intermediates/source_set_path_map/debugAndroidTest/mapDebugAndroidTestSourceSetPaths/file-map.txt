@@ -1,0 +1,6 @@
+com.android.onlineshoppingapp.test.app-core-1.5.0-0 /Users/bhardwaj/.gradle/caches/transforms-4/2a15601505ba6b2f10c7642d61c09c20/transformed/core-1.5.0/res
+com.android.onlineshoppingapp.test.app-annotation-experimental-1.4.0-1 /Users/bhardwaj/.gradle/caches/transforms-4/d8eeedc94fa1edcf1312d06b83462dd3/transformed/annotation-experimental-1.4.0/res
+com.android.onlineshoppingapp.test.app-androidTest-2 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/resValues/androidTest/debug
+com.android.onlineshoppingapp.test.app-mergeDebugAndroidTestResources-3 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.android.onlineshoppingapp.test.app-mergeDebugAndroidTestResources-4 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.android.onlineshoppingapp.test.app-debugAndroidTest-5 /Users/bhardwaj/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

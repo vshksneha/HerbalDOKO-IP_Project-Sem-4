@@ -1,0 +1,53 @@
+com.android.onlineshoppingapp-lifecycle-viewmodel-2.6.2-0 /Users/king/.gradle/caches/transforms-4/02f068dc76267c808d62125a0d132c1b/transformed/lifecycle-viewmodel-2.6.2/res
+com.android.onlineshoppingapp-play-services-wallet-19.3.0-1 /Users/king/.gradle/caches/transforms-4/0432d57639e0ca2771677b72951c1bbb/transformed/play-services-wallet-19.3.0/res
+com.android.onlineshoppingapp-startup-runtime-1.1.1-2 /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/res
+com.android.onlineshoppingapp-customview-poolingcontainer-1.0.0-3 /Users/king/.gradle/caches/transforms-4/09506e482a1b0c84a6f02eb41eb4b1ce/transformed/customview-poolingcontainer-1.0.0/res
+com.android.onlineshoppingapp-play-services-base-18.3.0-4 /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/res
+com.android.onlineshoppingapp-annotation-experimental-1.4.0-5 /Users/king/.gradle/caches/transforms-4/1823a7f794103c2b1d72aec71e372af1/transformed/annotation-experimental-1.4.0/res
+com.android.onlineshoppingapp-appcompat-resources-1.6.1-6 /Users/king/.gradle/caches/transforms-4/1f9ecdd1e51c782602e0d4ae511a0eeb/transformed/appcompat-resources-1.6.1/res
+com.android.onlineshoppingapp-credentials-1.2.0-rc01-7 /Users/king/.gradle/caches/transforms-4/21b4b493a3f6cc5ed119b05e630431e7/transformed/credentials-1.2.0-rc01/res
+com.android.onlineshoppingapp-swiperefreshlayout-1.2.0-alpha01-8 /Users/king/.gradle/caches/transforms-4/22a7c0ded7d22fdbb0df4e141438826e/transformed/swiperefreshlayout-1.2.0-alpha01/res
+com.android.onlineshoppingapp-fragment-1.5.7-9 /Users/king/.gradle/caches/transforms-4/3086ad630b4442c83b83ecc66a4c3ef9/transformed/fragment-1.5.7/res
+com.android.onlineshoppingapp-ads-adservices-java-1.0.0-beta05-10 /Users/king/.gradle/caches/transforms-4/3548566815517293172a48d309fdefd4/transformed/ads-adservices-java-1.0.0-beta05/res
+com.android.onlineshoppingapp-material-1.12.0-11 /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/res
+com.android.onlineshoppingapp-media-1.0.0-12 /Users/king/.gradle/caches/transforms-4/42e914053c0beb38ef026e43dc9a536f/transformed/media-1.0.0/res
+com.android.onlineshoppingapp-browser-1.4.0-13 /Users/king/.gradle/caches/transforms-4/4a9f16f51f4e511cfccba13cd9014310/transformed/browser-1.4.0/res
+com.android.onlineshoppingapp-android-sdk-5.5.1-14 /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/res
+com.android.onlineshoppingapp-firebase-common-21.0.0-15 /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/res
+com.android.onlineshoppingapp-core-runtime-2.2.0-16 /Users/king/.gradle/caches/transforms-4/52bfb690cce8d0a374487ec397bb8359/transformed/core-runtime-2.2.0/res
+com.android.onlineshoppingapp-lifecycle-livedata-core-2.6.2-17 /Users/king/.gradle/caches/transforms-4/57c26f8ad354907b9f15970d63e0b7b2/transformed/lifecycle-livedata-core-2.6.2/res
+com.android.onlineshoppingapp-lifecycle-runtime-2.6.2-18 /Users/king/.gradle/caches/transforms-4/5ae72c8b6e4044f1e896faea124d6aa4/transformed/lifecycle-runtime-2.6.2/res
+com.android.onlineshoppingapp-ads-adservices-1.0.0-beta05-19 /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/res
+com.android.onlineshoppingapp-play-services-measurement-api-22.0.0-20 /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/res
+com.android.onlineshoppingapp-emoji2-views-helper-1.2.0-21 /Users/king/.gradle/caches/transforms-4/7176e42da53c0ad2a40bcff964e4085c/transformed/emoji2-views-helper-1.2.0/res
+com.android.onlineshoppingapp-core-ktx-1.13.0-22 /Users/king/.gradle/caches/transforms-4/7f1cb3a03b610e2c7fcf779272ec3259/transformed/core-ktx-1.13.0/res
+com.android.onlineshoppingapp-roundedimageview-2.3.0-23 /Users/king/.gradle/caches/transforms-4/86b3e98d17e83bc4ece44e38496e2e62/transformed/roundedimageview-2.3.0/res
+com.android.onlineshoppingapp-coordinatorlayout-1.1.0-24 /Users/king/.gradle/caches/transforms-4/86d1dfcd2745df835a7f303b739235dd/transformed/coordinatorlayout-1.1.0/res
+com.android.onlineshoppingapp-viewpager2-1.1.0-beta02-25 /Users/king/.gradle/caches/transforms-4/88af7c4d7e2bfa62a9a6a9caa477e39f/transformed/viewpager2-1.1.0-beta02/res
+com.android.onlineshoppingapp-play-services-auth-21.1.1-26 /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/res
+com.android.onlineshoppingapp-drawerlayout-1.1.1-27 /Users/king/.gradle/caches/transforms-4/8cfcb91027dc80df7b7d353e870a7d4f/transformed/drawerlayout-1.1.1/res
+com.android.onlineshoppingapp-play-services-maps-18.0.2-28 /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/res
+com.android.onlineshoppingapp-emoji2-1.2.0-29 /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/res
+com.android.onlineshoppingapp-constraintlayout-2.1.4-30 /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/res
+com.android.onlineshoppingapp-cardview-1.0.0-31 /Users/king/.gradle/caches/transforms-4/953afeda0e8363277aae27df30532a64/transformed/cardview-1.0.0/res
+com.android.onlineshoppingapp-appcompat-1.6.1-32 /Users/king/.gradle/caches/transforms-4/99c79966961db9ab7c4f1cfc1c446ccc/transformed/appcompat-1.6.1/res
+com.android.onlineshoppingapp-savedstate-1.2.1-33 /Users/king/.gradle/caches/transforms-4/a83366839f383a4efa15971df3248457/transformed/savedstate-1.2.1/res
+com.android.onlineshoppingapp-glide-4.16.0-34 /Users/king/.gradle/caches/transforms-4/bf5683162b5b342f5fc88bd08daddccd/transformed/glide-4.16.0/res
+com.android.onlineshoppingapp-lifecycle-viewmodel-savedstate-2.6.2-35 /Users/king/.gradle/caches/transforms-4/c13ba19a7b3fcbae226643687235bb82/transformed/lifecycle-viewmodel-savedstate-2.6.2/res
+com.android.onlineshoppingapp-profileinstaller-1.3.0-36 /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/res
+com.android.onlineshoppingapp-credentials-play-services-auth-1.2.0-rc01-37 /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/res
+com.android.onlineshoppingapp-circleindicator-2.1.6-38 /Users/king/.gradle/caches/transforms-4/cfc9338404973ccb1445cb32318738ed/transformed/circleindicator-2.1.6/res
+com.android.onlineshoppingapp-core-1.13.0-39 /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/res
+com.android.onlineshoppingapp-recyclerview-1.3.2-40 /Users/king/.gradle/caches/transforms-4/d9b3f0e5f1cd03dcafcb624fec505910/transformed/recyclerview-1.3.2/res
+com.android.onlineshoppingapp-lifecycle-process-2.6.2-41 /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/res
+com.android.onlineshoppingapp-activity-1.8.0-42 /Users/king/.gradle/caches/transforms-4/ed47951a0f4305f7e1b8dc8e8c0fa011/transformed/activity-1.8.0/res
+com.android.onlineshoppingapp-transition-1.5.0-43 /Users/king/.gradle/caches/transforms-4/fad6a70851b3709a77f647df1a3f6024/transformed/transition-1.5.0/res
+com.android.onlineshoppingapp-play-services-basement-18.3.0-44 /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/res
+com.android.onlineshoppingapp-pngs-45 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/pngs/debug
+com.android.onlineshoppingapp-res-46 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/processDebugGoogleServices
+com.android.onlineshoppingapp-resValues-47 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/generated/res/resValues/debug
+com.android.onlineshoppingapp-packageDebugResources-48 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.android.onlineshoppingapp-packageDebugResources-49 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.android.onlineshoppingapp-merged_res-50 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/build/intermediates/merged_res/debug
+com.android.onlineshoppingapp-debug-51 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/debug/res
+com.android.onlineshoppingapp-main-52 /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/res

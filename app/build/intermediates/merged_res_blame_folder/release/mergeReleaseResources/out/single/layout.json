@@ -1,0 +1,198 @@
+[
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_wait_for_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_wait_for_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_order_product_item.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_order_product_item.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_best_selling.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_best_selling.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_settings.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_settings.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_product_detail.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_product_detail.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_enter_code.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_enter_code.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_receive_order.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_receive_order.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_checkout.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_category.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_category.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_shipper.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_shipper.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_main.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_list_of_follow.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_list_of_follow.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_order_item.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_order_item.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_register.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_user_information.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_user_information.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_review_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_review_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/cardview_product_item.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/cardview_product_item.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_home_page.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_home_page.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_purchase_order.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_purchase_order.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_manage_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_manage_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_sale_statistic.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_sale_statistic.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_write_review.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_write_review.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_my_store.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_my_store.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/bottom_sheet_layout_deleteacc.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/bottom_sheet_layout_deleteacc.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_wait_for_review.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_wait_for_review.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_write_review_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_write_review_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_category_page.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_category_page.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_login.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/slide_banner_home.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/slide_banner_home.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_change_password.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_change_password.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_forgot_password.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_forgot_password.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/bottom_sheet_layout_addproduct.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/bottom_sheet_layout_addproduct.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/slide_image_product_detail.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/slide_image_product_detail.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_manage_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_manage_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_review_list.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_review_list.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_bottom_sheet_edit_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_bottom_sheet_edit_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_profile_page.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_profile_page.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_shipping.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_shipping.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/bottom_sheet_layout_changepass.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/bottom_sheet_layout_changepass.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_shopping_cart.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_shopping_cart.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_user_address.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_user_address.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/layout_item_following.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/layout_item_following.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/bottom_sheet_layout_userinfo.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/bottom_sheet_layout_userinfo.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/imageview_simplegallery_item.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/imageview_simplegallery_item.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_list_of_product.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_list_of_product.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/fragment_cancel_order.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/fragment_cancel_order.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/card_product_in_cart.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/card_product_in_cart.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_change_user_info.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_change_user_info.xml"
+    },
+    {
+        "merged": "com.android.onlineshoppingapp-mergeReleaseResources-49:/layout/activity_change_address.xml",
+        "source": "com.android.onlineshoppingapp-main-51:/layout/activity_change_address.xml"
+    }
+]

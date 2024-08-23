@@ -1,0 +1,654 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.onlineshoppingapp"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="30"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:4:22-64
+12
+13    <meta-data
+13-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:6:5-8:32
+14        android:name="com.google.android.gms.wallet.api.enabled"
+14-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:7:9-65
+15        android:value="true" />
+15-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:8:9-29
+16
+17    <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
+18    <!-- <uses-sdk android:minSdkVersion="21" /> -->
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+19-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:22-76
+20    <uses-permission android:name="android.permission.WAKE_LOCK" />
+20-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:5-68
+20-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:22-65
+21    <uses-permission android:name="com.google.android.gms.permission.AD_ID" />
+21-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:5-79
+21-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:22-76
+22    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_ATTRIBUTION" />
+22-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:5-88
+22-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:22-85
+23    <uses-permission android:name="android.permission.ACCESS_ADSERVICES_AD_ID" />
+23-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:5-82
+23-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:22-79
+24
+25    <uses-feature
+25-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+26        android:glEsVersion="0x00020000"
+26-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+27        android:required="true" />
+27-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+28
+29    <queries>
+29-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+30
+31        <!-- Needs to be explicitly declared on Android R+ -->
+32        <package android:name="com.google.android.apps.maps" />
+32-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+32-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+33    </queries>
+34
+35    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+35-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+35-->[com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+36    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+36-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:5-110
+36-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:22-107
+37
+38    <permission
+38-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+39        android:name="com.android.onlineshoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+39-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+40        android:protectionLevel="signature" />
+40-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+41
+42    <uses-permission android:name="com.android.onlineshoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+42-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+42-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+43    <uses-permission android:name="android.permission.CAMERA" />
+43-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:9:5-65
+43-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:9:22-62
+44    <uses-permission android:name="android.permission.VIBRATE" />
+44-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:10:5-66
+44-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:10:22-63
+45
+46    <uses-feature
+46-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:12:5-14:36
+47        android:name="android.hardware.camera"
+47-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:13:9-47
+48        android:required="false" />
+48-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:14:9-33
+49    <uses-feature
+49-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:15:5-17:36
+50        android:name="android.hardware.camera.autofocus"
+50-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:16:9-57
+51        android:required="false" />
+51-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:17:9-33
+52
+53    <application
+53-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:10:5-84:19
+54        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+54-->[androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+55        android:debuggable="true"
+56        android:extractNativeLibs="false"
+57        android:icon="@mipmap/ic_red"
+57-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:11:9-38
+58        android:label="Herbal DOKO"
+58-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:12:9-36
+59        android:roundIcon="@mipmap/ic_red"
+59-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:13:9-43
+60        android:supportsRtl="true"
+60-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:14:9-35
+61        android:testOnly="true"
+62        android:theme="@style/Theme.OnlineShoppingApp.NoActionBar" >
+62-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:15:9-67
+63        <activity
+63-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:16:9-18:40
+64            android:name="com.android.onlineshoppingapp.SaleStatisticActivity"
+64-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:17:13-50
+65            android:exported="false" />
+65-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:18:13-37
+66        <activity
+66-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:19:9-21:40
+67            android:name="com.android.onlineshoppingapp.ListOfFollowActivity"
+67-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:20:13-49
+68            android:exported="false" />
+68-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:21:13-37
+69        <activity
+69-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:22:9-24:40
+70            android:name="com.android.onlineshoppingapp.ShipperActivity"
+70-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:23:13-44
+71            android:exported="false" />
+71-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:24:13-37
+72        <activity
+72-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:25:9-27:40
+73            android:name="com.android.onlineshoppingapp.WriteReviewProductActivity"
+73-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:26:13-55
+74            android:exported="false" />
+74-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:27:13-37
+75        <activity
+75-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:28:9-30:40
+76            android:name="com.android.onlineshoppingapp.ReviewListActivity"
+76-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:29:13-47
+77            android:exported="false" />
+77-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:30:13-37
+78        <activity
+78-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:31:9-33:40
+79            android:name="com.android.onlineshoppingapp.ManageProductActivity"
+79-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:32:13-50
+80            android:exported="false" />
+80-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:33:13-37
+81        <activity
+81-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:34:9-36:40
+82            android:name="com.android.onlineshoppingapp.PurchaseOrderActivity"
+82-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:35:13-50
+83            android:exported="false" />
+83-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:36:13-37
+84        <activity
+84-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:37:9-39:40
+85            android:name="com.android.onlineshoppingapp.ChangeUserInfoActivity"
+85-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:38:13-51
+86            android:exported="false" />
+86-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:39:13-37
+87        <activity
+87-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:40:9-42:40
+88            android:name="com.android.onlineshoppingapp.ChangeAddressActivity"
+88-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:41:13-50
+89            android:exported="false" />
+89-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:42:13-37
+90        <activity
+90-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:43:9-45:40
+91            android:name="com.android.onlineshoppingapp.ListOfProductActivity"
+91-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:44:13-50
+92            android:exported="false" />
+92-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:45:13-37
+93        <activity
+93-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:46:9-48:40
+94            android:name="com.android.onlineshoppingapp.CheckoutActivity"
+94-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:47:13-45
+95            android:exported="false" />
+95-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:48:13-37
+96        <activity
+96-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:49:9-51:40
+97            android:name="com.android.onlineshoppingapp.ShoppingCartActivity"
+97-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:50:13-49
+98            android:exported="false" />
+98-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:51:13-37
+99        <activity
+99-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:52:9-55:76
+100            android:name="com.android.onlineshoppingapp.ProductDetailActivity"
+100-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:53:13-50
+101            android:exported="false"
+101-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:54:13-37
+102            android:windowSoftInputMode="stateAlwaysHidden|adjustResize" />
+102-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:55:13-73
+103        <activity
+103-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:56:9-58:40
+104            android:name="com.android.onlineshoppingapp.MyStoreActivity"
+104-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:57:13-44
+105            android:exported="false" />
+105-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:58:13-37
+106        <activity
+106-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:59:9-61:40
+107            android:name="com.android.onlineshoppingapp.SettingsActivity"
+107-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:60:13-45
+108            android:exported="false" />
+108-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:61:13-37
+109        <activity
+109-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:62:9-64:40
+110            android:name="com.android.onlineshoppingapp.ForgotPasswordActivity"
+110-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:63:13-51
+111            android:exported="false" />
+111-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:64:13-37
+112        <activity
+112-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:65:9-67:40
+113            android:name="com.android.onlineshoppingapp.RegisterActivity"
+113-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:66:13-45
+114            android:exported="false" />
+114-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:67:13-37
+115        <activity
+115-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:68:9-70:40
+116            android:name="com.android.onlineshoppingapp.LoginActivity"
+116-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:69:13-42
+117            android:exported="false" />
+117-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:70:13-37
+118        <activity
+118-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:71:9-73:40
+119            android:name="com.android.onlineshoppingapp.MainActivity"
+119-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:72:13-41
+120            android:exported="false" />
+120-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:73:13-37
+121        <activity
+121-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:74:9-83:20
+122            android:name="com.android.onlineshoppingapp.SplashActivity"
+122-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:75:13-43
+123            android:exported="true" >
+123-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:76:13-36
+124            <intent-filter>
+124-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:78:13-82:29
+125                <action android:name="android.intent.action.MAIN" />
+125-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:79:17-69
+125-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:79:25-66
+126
+127                <category android:name="android.intent.category.LAUNCHER" />
+127-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:81:17-77
+127-->/Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:81:27-74
+128            </intent-filter>
+129        </activity>
+130
+131        <service
+131-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+132            android:name="com.google.firebase.components.ComponentDiscoveryService"
+132-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:15:13-84
+133            android:directBootAware="true"
+133-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+134            android:exported="false" >
+134-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:16:13-37
+135            <meta-data
+135-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+136                android:name="com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar"
+136-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+137                android:value="com.google.firebase.components.ComponentRegistrar" />
+137-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+138            <meta-data
+138-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+139                android:name="com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar"
+139-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+140                android:value="com.google.firebase.components.ComponentRegistrar" />
+140-->[com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+141            <meta-data
+141-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+142                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+142-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+143                android:value="com.google.firebase.components.ComponentRegistrar" />
+143-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+144            <meta-data
+144-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+145                android:name="com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar"
+145-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+146                android:value="com.google.firebase.components.ComponentRegistrar" />
+146-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+147            <meta-data
+147-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+148                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+148-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+149                android:value="com.google.firebase.components.ComponentRegistrar" />
+149-->[com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+150            <meta-data
+150-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:30:13-32:85
+151                android:name="com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar"
+151-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:31:17-118
+152                android:value="com.google.firebase.components.ComponentRegistrar" />
+152-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:32:17-82
+153            <meta-data
+153-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:33:13-35:85
+154                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+154-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:34:17-107
+155                android:value="com.google.firebase.components.ComponentRegistrar" />
+155-->[com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:35:17-82
+156            <meta-data
+156-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:25:13-27:85
+157                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar"
+157-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:26:17-120
+158                android:value="com.google.firebase.components.ComponentRegistrar" />
+158-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:27:17-82
+159            <meta-data
+159-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:28:13-30:85
+160                android:name="com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar"
+160-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:29:17-117
+161                android:value="com.google.firebase.components.ComponentRegistrar" />
+161-->[com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:30:17-82
+162            <meta-data
+162-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:37:13-39:85
+163                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+163-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:38:17-139
+164                android:value="com.google.firebase.components.ComponentRegistrar" />
+164-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:39:17-82
+165            <meta-data
+165-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+166                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar"
+166-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+167                android:value="com.google.firebase.components.ComponentRegistrar" />
+167-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+168            <meta-data
+168-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+169                android:name="com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar"
+169-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+170                android:value="com.google.firebase.components.ComponentRegistrar" />
+170-->[com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+171            <meta-data
+171-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+172                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+172-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+173                android:value="com.google.firebase.components.ComponentRegistrar" />
+173-->[com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+174            <meta-data
+174-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+175                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+175-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+176                android:value="com.google.firebase.components.ComponentRegistrar" />
+176-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+177        </service>
+178
+179        <activity android:name="com.paypal.android.sdk.payments.PaymentActivity" />
+179-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:13:9-84
+179-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:13:19-81
+180        <activity android:name="com.paypal.android.sdk.payments.PaymentMethodActivity" />
+180-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:14:9-90
+180-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:14:19-87
+181        <activity android:name="com.paypal.android.sdk.payments.PaymentConfirmActivity" />
+181-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:15:9-91
+181-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:15:19-88
+182        <activity android:name="com.paypal.android.sdk.payments.LoginActivity" />
+182-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:16:9-82
+182-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:16:19-79
+183        <activity android:name="com.paypal.android.sdk.payments.PayPalFuturePaymentActivity" />
+183-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:17:9-96
+183-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:17:19-93
+184        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentConsentActivity" />
+184-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:18:9-97
+184-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:18:19-94
+185        <activity android:name="com.paypal.android.sdk.payments.FuturePaymentInfoActivity" />
+185-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:19:9-94
+185-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:19:19-91
+186        <activity android:name="com.paypal.android.sdk.payments.PayPalProfileSharingActivity" />
+186-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:20:9-97
+186-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:20:19-94
+187        <activity android:name="com.paypal.android.sdk.payments.ProfileSharingConsentActivity" />
+187-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:21:9-98
+187-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:21:19-95
+188
+189        <service
+189-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:23:9-25:40
+190            android:name="com.paypal.android.sdk.payments.PayPalService"
+190-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:24:13-73
+191            android:exported="false" />
+191-->[com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:25:13-37
+192
+193        <activity
+193-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+194            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+194-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+195            android:excludeFromRecents="true"
+195-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+196            android:exported="true"
+196-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+197            android:launchMode="singleTask"
+197-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+198            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+198-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+199            <intent-filter>
+199-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+200                <action android:name="android.intent.action.VIEW" />
+200-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+200-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+201
+202                <category android:name="android.intent.category.DEFAULT" />
+202-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+202-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+203                <category android:name="android.intent.category.BROWSABLE" />
+203-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+203-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+204
+205                <data
+205-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+206                    android:host="firebase.auth"
+206-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+207                    android:path="/"
+207-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+208                    android:scheme="genericidp" />
+208-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+209            </intent-filter>
+210        </activity>
+211        <activity
+211-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+212            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+212-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+213            android:excludeFromRecents="true"
+213-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+214            android:exported="true"
+214-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+215            android:launchMode="singleTask"
+215-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+216            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+216-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+217            <intent-filter>
+217-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+218                <action android:name="android.intent.action.VIEW" />
+218-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+218-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+219
+220                <category android:name="android.intent.category.DEFAULT" />
+220-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+220-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+221                <category android:name="android.intent.category.BROWSABLE" />
+221-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+221-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+222
+223                <data
+223-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+224                    android:host="firebase.auth"
+224-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+225                    android:path="/"
+225-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+226                    android:scheme="recaptcha" />
+226-->[com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+227            </intent-filter>
+228        </activity>
+229
+230        <service
+230-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+231            android:name="androidx.credentials.playservices.CredentialProviderMetadataHolder"
+231-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+232            android:enabled="true"
+232-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+233            android:exported="false" >
+233-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+234            <meta-data
+234-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+235                android:name="androidx.credentials.CREDENTIAL_PROVIDER_KEY"
+235-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+236                android:value="androidx.credentials.playservices.CredentialProviderPlayServicesImpl" />
+236-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+237        </service>
+238
+239        <activity
+239-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+240            android:name="androidx.credentials.playservices.HiddenActivity"
+240-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+241            android:configChanges="orientation|screenSize|screenLayout|keyboardHidden"
+241-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+242            android:enabled="true"
+242-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+243            android:exported="false"
+243-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+244            android:fitsSystemWindows="true"
+244-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+245            android:theme="@style/Theme.Hidden" >
+245-->[androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+246        </activity>
+247        <activity
+247-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:23:9-27:75
+248            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+248-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:24:13-93
+249            android:excludeFromRecents="true"
+249-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:25:13-46
+250            android:exported="false"
+250-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:26:13-37
+251            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+251-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:27:13-72
+252        <!--
+253            Service handling Google Sign-In user revocation. For apps that do not integrate with
+254            Google Sign-In, this service will never be started.
+255        -->
+256        <service
+256-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:33:9-37:51
+257            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+257-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:34:13-89
+258            android:exported="true"
+258-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:35:13-36
+259            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION"
+259-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:36:13-107
+260            android:visibleToInstantApps="true" />
+260-->[com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:37:13-48
+261
+262        <property
+262-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:30:9-32:61
+263            android:name="android.adservices.AD_SERVICES_CONFIG"
+263-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:31:13-65
+264            android:resource="@xml/ga_ad_services_config" />
+264-->[com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:32:13-58
+265
+266        <provider
+266-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+267            android:name="com.google.firebase.provider.FirebaseInitProvider"
+267-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+268            android:authorities="com.android.onlineshoppingapp.firebaseinitprovider"
+268-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+269            android:directBootAware="true"
+269-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+270            android:exported="false"
+270-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+271            android:initOrder="100" />
+271-->[com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+272        <provider
+272-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+273            android:name="androidx.startup.InitializationProvider"
+273-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+274            android:authorities="com.android.onlineshoppingapp.androidx-startup"
+274-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+275            android:exported="false" >
+275-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+276            <meta-data
+276-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+277                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+277-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+278                android:value="androidx.startup" />
+278-->[androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+279            <meta-data
+279-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+280                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+280-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+281                android:value="androidx.startup" />
+281-->[androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+282            <meta-data
+282-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+283                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+283-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+284                android:value="androidx.startup" />
+284-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+285        </provider> <!-- Needs to be explicitly declared on P+ -->
+286        <uses-library
+286-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+287            android:name="org.apache.http.legacy"
+287-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+288            android:required="false" />
+288-->[com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+289
+290        <activity
+290-->[com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+291            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+291-->[com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+292            android:exported="false"
+292-->[com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+293            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+293-->[com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+294
+295        <receiver
+295-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:29:9-33:20
+296            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+296-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:30:13-85
+297            android:enabled="true"
+297-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:31:13-35
+298            android:exported="false" >
+298-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:32:13-37
+299        </receiver>
+300
+301        <service
+301-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:35:9-38:40
+302            android:name="com.google.android.gms.measurement.AppMeasurementService"
+302-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:36:13-84
+303            android:enabled="true"
+303-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:37:13-35
+304            android:exported="false" />
+304-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:38:13-37
+305        <service
+305-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:39:9-43:72
+306            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+306-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:40:13-87
+307            android:enabled="true"
+307-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:41:13-35
+308            android:exported="false"
+308-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:42:13-37
+309            android:permission="android.permission.BIND_JOB_SERVICE" />
+309-->[com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:43:13-69
+310
+311        <uses-library
+311-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+312            android:name="android.ext.adservices"
+312-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+313            android:required="false" />
+313-->[androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+314
+315        <meta-data
+315-->[com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+316            android:name="com.google.android.gms.version"
+316-->[com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+317            android:value="@integer/google_play_services_version" />
+317-->[com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+318
+319        <receiver
+319-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+320            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+320-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+321            android:directBootAware="false"
+321-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+322            android:enabled="true"
+322-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+323            android:exported="true"
+323-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+324            android:permission="android.permission.DUMP" >
+324-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+325            <intent-filter>
+325-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+326                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+326-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+326-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+327            </intent-filter>
+328            <intent-filter>
+328-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+329                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+329-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+329-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+330            </intent-filter>
+331            <intent-filter>
+331-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+332                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+332-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+332-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+333            </intent-filter>
+334            <intent-filter>
+334-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+335                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+335-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+335-->[androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+336            </intent-filter>
+337        </receiver>
+338
+339        <activity
+339-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:20:9-22:66
+340            android:name="io.card.payment.CardIOActivity"
+340-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:21:13-58
+341            android:configChanges="keyboardHidden|orientation" />
+341-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:22:13-63
+342        <activity android:name="io.card.payment.DataEntryActivity" />
+342-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:23:9-70
+342-->[io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:23:19-67
+343    </application>
+344
+345</manifest>

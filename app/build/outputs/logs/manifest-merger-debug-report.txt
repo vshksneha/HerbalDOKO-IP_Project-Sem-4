@@ -1,0 +1,1104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:2:1-86:12
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:2:1-86:12
+MERGED from [androidx.databinding:viewbinding:8.2.0] /Users/king/.gradle/caches/transforms-4/0c0c4e78785421e69bc266dc40f2ce83/transformed/viewbinding-8.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.12.0] /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/king/.gradle/caches/transforms-4/1f9ecdd1e51c782602e0d4ae511a0eeb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/king/.gradle/caches/transforms-4/99c79966961db9ab7c4f1cfc1c446ccc/transformed/appcompat-1.6.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/king/.gradle/caches/transforms-4/58810b460c3c2d8648b19f0e9fed4bc5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-wallet:19.3.0] /Users/king/.gradle/caches/transforms-4/0432d57639e0ca2771677b72951c1bbb/transformed/play-services-wallet-19.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/king/.gradle/caches/transforms-4/f05a03b751be62024ea2c7e16723a1c3/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/king/.gradle/caches/transforms-4/7cefd033b38e93119ccf2c456002a6e2/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:2:1-28:12
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/king/.gradle/caches/transforms-4/bf5683162b5b342f5fc88bd08daddccd/transformed/glide-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:17:1-75:12
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:15:1-38:12
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:15:1-39:12
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/21b4b493a3f6cc5ed119b05e630431e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:17:1-40:12
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/king/.gradle/caches/transforms-4/88af7c4d7e2bfa62a9a6a9caa477e39f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/king/.gradle/caches/transforms-4/d9b3f0e5f1cd03dcafcb624fec505910/transformed/recyclerview-1.3.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/king/.gradle/caches/transforms-4/953afeda0e8363277aae27df30532a64/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [me.relex:circleindicator:2.1.6] /Users/king/.gradle/caches/transforms-4/cfc9338404973ccb1445cb32318738ed/transformed/circleindicator-2.1.6/AndroidManifest.xml:2:1-11:12
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/king/.gradle/caches/transforms-4/86b3e98d17e83bc4ece44e38496e2e62/transformed/roundedimageview-2.3.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/king/.gradle/caches/transforms-4/315e0f946bb012f5c866297f5622a582/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01] /Users/king/.gradle/caches/transforms-4/22a7c0ded7d22fdbb0df4e141438826e/transformed/swiperefreshlayout-1.2.0-alpha01/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/king/.gradle/caches/transforms-4/acdd4a62376ae2b1fc962252c9ab884d/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:2:1-20:12
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:15:1-34:12
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:17:1-43:12
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:2:1-24:12
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:2:1-18:12
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/king/.gradle/caches/transforms-4/1cadc9db7a573ee262d96e3188c492fb/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:15:1-41:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/king/.gradle/caches/transforms-4/09a88ec45aef2cc7a1f97c03fff5c55e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/king/.gradle/caches/transforms-4/7176e42da53c0ad2a40bcff964e4085c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] /Users/king/.gradle/caches/transforms-4/ae2767ab550821768bc49fbae087eef5/transformed/play-services-identity-18.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/king/.gradle/caches/transforms-4/9d8a51ab898c7437f0c66825757b0aa6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/king/.gradle/caches/transforms-4/e79293000fb3fc7fe5345bdb840082c8/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/king/.gradle/caches/transforms-4/b1fd040258879e0ce84e59deaebef006/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:15:1-23:12
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/king/.gradle/caches/transforms-4/eaf38c5c8ee5d98f70e8923560dae699/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/king/.gradle/caches/transforms-4/b2a116ad1b425706fa8a9885929fb77b/transformed/play-services-fido-20.1.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/king/.gradle/caches/transforms-4/3bf7b1ca24c1753d62b9f80beee65523/transformed/integrity-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/king/.gradle/caches/transforms-4/8cfcb91027dc80df7b7d353e870a7d4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/king/.gradle/caches/transforms-4/86d1dfcd2745df835a7f303b739235dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.5.0] /Users/king/.gradle/caches/transforms-4/fad6a70851b3709a77f647df1a3f6024/transformed/transition-1.5.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/king/.gradle/caches/transforms-4/8ed191a622b8e19620938e77d8241269/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/king/.gradle/caches/transforms-4/cdc3530dbe39fd044bd1f44ee3f66482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/king/.gradle/caches/transforms-4/f3c98b1e18d6e7cced20e6a644ec7e0e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /Users/king/.gradle/caches/transforms-4/42e914053c0beb38ef026e43dc9a536f/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:17:1-46:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/king/.gradle/caches/transforms-4/c446c35cb16cc5a9fe197739382cb386/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/king/.gradle/caches/transforms-4/f14abcd40e2f816860db42b0cc2f401c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/king/.gradle/caches/transforms-4/16c398626fc4ef695c447b8feb7d50e5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.4.0] /Users/king/.gradle/caches/transforms-4/4a9f16f51f4e511cfccba13cd9014310/transformed/browser-1.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.1.0] /Users/king/.gradle/caches/transforms-4/966275dad774f9e9ad087729edb79e8f/transformed/loader-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/king/.gradle/caches/transforms-4/a971b83c48660df5844c94d8bd05eee7/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/king/.gradle/caches/transforms-4/25f1fdafd69120a504ecddace0f9c698/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/king/.gradle/caches/transforms-4/d60a131f1a20ff9835bc2469aebbf586/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/king/.gradle/caches/transforms-4/2c6984bfb1e2959adbb9e9f5d7c574cb/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/king/.gradle/caches/transforms-4/09506e482a1b0c84a6f02eb41eb4b1ce/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/3548566815517293172a48d309fdefd4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/king/.gradle/caches/transforms-4/7f1cb3a03b610e2c7fcf779272ec3259/transformed/core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/king/.gradle/caches/transforms-4/02f068dc76267c808d62125a0d132c1b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/king/.gradle/caches/transforms-4/57c26f8ad354907b9f15970d63e0b7b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/king/.gradle/caches/transforms-4/5ae72c8b6e4044f1e896faea124d6aa4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/king/.gradle/caches/transforms-4/c13ba19a7b3fcbae226643687235bb82/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/king/.gradle/caches/transforms-4/a83366839f383a4efa15971df3248457/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/king/.gradle/caches/transforms-4/48ca929dd284115d69ed412ca8ed6658/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:15:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/king/.gradle/caches/transforms-4/2e11be388527286ab048ecdbee057fb5/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/king/.gradle/caches/transforms-4/35ff2e3e664a8c24a2af27583e883b6f/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/king/.gradle/caches/transforms-4/8beed274f5c4e2db68c57bd51ddb4c3a/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/king/.gradle/caches/transforms-4/3086ad630b4442c83b83ecc66a4c3ef9/transformed/fragment-1.5.7/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] /Users/king/.gradle/caches/transforms-4/ed47951a0f4305f7e1b8dc8e8c0fa011/transformed/activity-1.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/king/.gradle/caches/transforms-4/1f82f86bae57d44d0a12df2c30c2cf7f/transformed/firebase-components-18.0.0/AndroidManifest.xml:15:1-20:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/king/.gradle/caches/transforms-4/3dae620ad79884afb30b9c6df36f1419/transformed/gifdecoder-4.16.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/king/.gradle/caches/transforms-4/f55c1d2019d9b64d6de71954c1ce7743/transformed/exifinterface-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/king/.gradle/caches/transforms-4/11d347a781aceec2aba2713a2f57d4cb/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/king/.gradle/caches/transforms-4/2d534755e4f3a6722b1c9ac7acc2496b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/king/.gradle/caches/transforms-4/b111f502fe7703befff238496ecf747e/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/king/.gradle/caches/transforms-4/fea7fbbd5fd0aae9219f4e1ec060bfdf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/king/.gradle/caches/transforms-4/6f278b238d55abca27b218b0cc0473d9/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/king/.gradle/caches/transforms-4/17bc92ffc8161e048aefedabe7930d2f/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/king/.gradle/caches/transforms-4/52bfb690cce8d0a374487ec397bb8359/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/king/.gradle/caches/transforms-4/5a2d55ff81ae290b61e710014b4463d9/transformed/googleid-1.1.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/king/.gradle/caches/transforms-4/1823a7f794103c2b1d72aec71e372af1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/king/.gradle/caches/transforms-4/4d90299eecedc43ed88ce78009ee0b52/transformed/grpc-android-1.57.2/AndroidManifest.xml:2:1-9:12
+MERGED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:2:1-26:12
+	package
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:10:5-67
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:25:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:8:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:4:22-64
+meta-data#com.google.android.gms.wallet.api.enabled
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:6:5-8:32
+	android:value
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:8:9-29
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:7:9-65
+application
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:10:5-84:19
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:10:5-84:19
+MERGED from [com.google.android.material:material:1.12.0] /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.12.0] /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:13:5-24:19
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/king/.gradle/caches/transforms-4/7cefd033b38e93119ccf2c456002a6e2/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/king/.gradle/caches/transforms-4/7cefd033b38e93119ccf2c456002a6e2/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:12:5-26:19
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:12:5-26:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:28:5-73:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:25:5-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:26:5-37:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:26:5-37:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:23:5-42:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:22:5-38:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:21:5-32:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:29:5-41:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:11:5-22:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:8:5-16:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/king/.gradle/caches/transforms-4/1cadc9db7a573ee262d96e3188c492fb/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/king/.gradle/caches/transforms-4/1cadc9db7a573ee262d96e3188c492fb/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:22:5-39:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] /Users/king/.gradle/caches/transforms-4/ae2767ab550821768bc49fbae087eef5/transformed/play-services-identity-18.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] /Users/king/.gradle/caches/transforms-4/ae2767ab550821768bc49fbae087eef5/transformed/play-services-identity-18.0.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/king/.gradle/caches/transforms-4/b1fd040258879e0ce84e59deaebef006/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/king/.gradle/caches/transforms-4/b1fd040258879e0ce84e59deaebef006/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:21:5-20
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/king/.gradle/caches/transforms-4/b2a116ad1b425706fa8a9885929fb77b/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/king/.gradle/caches/transforms-4/b2a116ad1b425706fa8a9885929fb77b/transformed/play-services-fido-20.1.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/king/.gradle/caches/transforms-4/3bf7b1ca24c1753d62b9f80beee65523/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/king/.gradle/caches/transforms-4/3bf7b1ca24c1753d62b9f80beee65523/transformed/integrity-1.2.0/AndroidManifest.xml:5:5-6:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:28:5-44:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/king/.gradle/caches/transforms-4/c446c35cb16cc5a9fe197739382cb386/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/king/.gradle/caches/transforms-4/c446c35cb16cc5a9fe197739382cb386/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:29:5-30:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/king/.gradle/caches/transforms-4/f14abcd40e2f816860db42b0cc2f401c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/king/.gradle/caches/transforms-4/f14abcd40e2f816860db42b0cc2f401c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:7:5-20
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/king/.gradle/caches/transforms-4/2e11be388527286ab048ecdbee057fb5/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/king/.gradle/caches/transforms-4/2e11be388527286ab048ecdbee057fb5/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:25:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/king/.gradle/caches/transforms-4/35ff2e3e664a8c24a2af27583e883b6f/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/king/.gradle/caches/transforms-4/35ff2e3e664a8c24a2af27583e883b6f/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/king/.gradle/caches/transforms-4/8beed274f5c4e2db68c57bd51ddb4c3a/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/king/.gradle/caches/transforms-4/8beed274f5c4e2db68c57bd51ddb4c3a/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/king/.gradle/caches/transforms-4/fea7fbbd5fd0aae9219f4e1ec060bfdf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/king/.gradle/caches/transforms-4/fea7fbbd5fd0aae9219f4e1ec060bfdf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:19:5-24:19
+MERGED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:19:5-24:19
+	android:extractNativeLibs
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:12:9-36
+	android:roundIcon
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:13:9-43
+	android:icon
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:11:9-38
+	android:theme
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:15:9-67
+activity#com.android.onlineshoppingapp.SaleStatisticActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:16:9-18:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:18:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:17:13-50
+activity#com.android.onlineshoppingapp.ListOfFollowActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:20:13-49
+activity#com.android.onlineshoppingapp.ShipperActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:23:13-44
+activity#com.android.onlineshoppingapp.WriteReviewProductActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:26:13-55
+activity#com.android.onlineshoppingapp.ReviewListActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:29:13-47
+activity#com.android.onlineshoppingapp.ManageProductActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:32:13-50
+activity#com.android.onlineshoppingapp.PurchaseOrderActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:35:13-50
+activity#com.android.onlineshoppingapp.ChangeUserInfoActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:38:13-51
+activity#com.android.onlineshoppingapp.ChangeAddressActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:41:13-50
+activity#com.android.onlineshoppingapp.ListOfProductActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:44:13-50
+activity#com.android.onlineshoppingapp.CheckoutActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:46:9-48:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:48:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:47:13-45
+activity#com.android.onlineshoppingapp.ShoppingCartActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:49:9-51:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:51:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:50:13-49
+activity#com.android.onlineshoppingapp.ProductDetailActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:52:9-55:76
+	android:windowSoftInputMode
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:55:13-73
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:54:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:53:13-50
+activity#com.android.onlineshoppingapp.MyStoreActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:56:9-58:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:58:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:57:13-44
+activity#com.android.onlineshoppingapp.SettingsActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:59:9-61:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:61:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:60:13-45
+activity#com.android.onlineshoppingapp.ForgotPasswordActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:62:9-64:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:64:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:63:13-51
+activity#com.android.onlineshoppingapp.RegisterActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:65:9-67:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:67:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:66:13-45
+activity#com.android.onlineshoppingapp.LoginActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:68:9-70:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:70:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:69:13-42
+activity#com.android.onlineshoppingapp.MainActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:71:9-73:40
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:72:13-41
+activity#com.android.onlineshoppingapp.SplashActivity
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:74:9-83:20
+	android:exported
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:76:13-36
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:75:13-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:78:13-82:29
+action#android.intent.action.MAIN
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:79:17-69
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:79:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:81:17-77
+	android:name
+		ADDED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml:81:27-74
+uses-sdk
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.0] /Users/king/.gradle/caches/transforms-4/0c0c4e78785421e69bc266dc40f2ce83/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.0] /Users/king/.gradle/caches/transforms-4/0c0c4e78785421e69bc266dc40f2ce83/transformed/viewbinding-8.2.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.12.0] /Users/king/.gradle/caches/transforms-4/3ba6f07e9237ed50af07285611d66ee6/transformed/material-1.12.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/king/.gradle/caches/transforms-4/90cd8397085bc86fb55c0a148ac5b75c/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/king/.gradle/caches/transforms-4/1f9ecdd1e51c782602e0d4ae511a0eeb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] /Users/king/.gradle/caches/transforms-4/1f9ecdd1e51c782602e0d4ae511a0eeb/transformed/appcompat-resources-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/king/.gradle/caches/transforms-4/99c79966961db9ab7c4f1cfc1c446ccc/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] /Users/king/.gradle/caches/transforms-4/99c79966961db9ab7c4f1cfc1c446ccc/transformed/appcompat-1.6.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/king/.gradle/caches/transforms-4/58810b460c3c2d8648b19f0e9fed4bc5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/king/.gradle/caches/transforms-4/58810b460c3c2d8648b19f0e9fed4bc5/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:19.3.0] /Users/king/.gradle/caches/transforms-4/0432d57639e0ca2771677b72951c1bbb/transformed/play-services-wallet-19.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:19.3.0] /Users/king/.gradle/caches/transforms-4/0432d57639e0ca2771677b72951c1bbb/transformed/play-services-wallet-19.3.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/king/.gradle/caches/transforms-4/f05a03b751be62024ea2c7e16723a1c3/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:protolite-well-known-types:18.0.0] /Users/king/.gradle/caches/transforms-4/f05a03b751be62024ea2c7e16723a1c3/transformed/protolite-well-known-types-18.0.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/king/.gradle/caches/transforms-4/7cefd033b38e93119ccf2c456002a6e2/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:22.0.0] /Users/king/.gradle/caches/transforms-4/7cefd033b38e93119ccf2c456002a6e2/transformed/firebase-analytics-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/king/.gradle/caches/transforms-4/bf5683162b5b342f5fc88bd08daddccd/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:glide:4.16.0] /Users/king/.gradle/caches/transforms-4/bf5683162b5b342f5fc88bd08daddccd/transformed/glide-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:21:5-23:151
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/21b4b493a3f6cc5ed119b05e630431e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/21b4b493a3f6cc5ed119b05e630431e7/transformed/credentials-1.2.0-rc01/AndroidManifest.xml:5:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/king/.gradle/caches/transforms-4/88af7c4d7e2bfa62a9a6a9caa477e39f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.1.0-beta02] /Users/king/.gradle/caches/transforms-4/88af7c4d7e2bfa62a9a6a9caa477e39f/transformed/viewpager2-1.1.0-beta02/AndroidManifest.xml:5:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/king/.gradle/caches/transforms-4/d9b3f0e5f1cd03dcafcb624fec505910/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.3.2] /Users/king/.gradle/caches/transforms-4/d9b3f0e5f1cd03dcafcb624fec505910/transformed/recyclerview-1.3.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/king/.gradle/caches/transforms-4/953afeda0e8363277aae27df30532a64/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/king/.gradle/caches/transforms-4/953afeda0e8363277aae27df30532a64/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [me.relex:circleindicator:2.1.6] /Users/king/.gradle/caches/transforms-4/cfc9338404973ccb1445cb32318738ed/transformed/circleindicator-2.1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [me.relex:circleindicator:2.1.6] /Users/king/.gradle/caches/transforms-4/cfc9338404973ccb1445cb32318738ed/transformed/circleindicator-2.1.6/AndroidManifest.xml:7:5-9:41
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/king/.gradle/caches/transforms-4/86b3e98d17e83bc4ece44e38496e2e62/transformed/roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [com.makeramen:roundedimageview:2.3.0] /Users/king/.gradle/caches/transforms-4/86b3e98d17e83bc4ece44e38496e2e62/transformed/roundedimageview-2.3.0/AndroidManifest.xml:7:5-43
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/king/.gradle/caches/transforms-4/315e0f946bb012f5c866297f5622a582/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/king/.gradle/caches/transforms-4/315e0f946bb012f5c866297f5622a582/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01] /Users/king/.gradle/caches/transforms-4/22a7c0ded7d22fdbb0df4e141438826e/transformed/swiperefreshlayout-1.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.2.0-alpha01] /Users/king/.gradle/caches/transforms-4/22a7c0ded7d22fdbb0df4e141438826e/transformed/swiperefreshlayout-1.2.0-alpha01/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/king/.gradle/caches/transforms-4/acdd4a62376ae2b1fc962252c9ab884d/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] /Users/king/.gradle/caches/transforms-4/acdd4a62376ae2b1fc962252c9ab884d/transformed/MPAndroidChart-v3.1.0/AndroidManifest.xml:16:5-18:41
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/king/.gradle/caches/transforms-4/1cadc9db7a573ee262d96e3188c492fb/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:20.0.0] /Users/king/.gradle/caches/transforms-4/1cadc9db7a573ee262d96e3188c492fb/transformed/firebase-auth-interop-20.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:19:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/king/.gradle/caches/transforms-4/09a88ec45aef2cc7a1f97c03fff5c55e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/king/.gradle/caches/transforms-4/09a88ec45aef2cc7a1f97c03fff5c55e/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/king/.gradle/caches/transforms-4/7176e42da53c0ad2a40bcff964e4085c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/king/.gradle/caches/transforms-4/7176e42da53c0ad2a40bcff964e4085c/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] /Users/king/.gradle/caches/transforms-4/ae2767ab550821768bc49fbae087eef5/transformed/play-services-identity-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:18.0.1] /Users/king/.gradle/caches/transforms-4/ae2767ab550821768bc49fbae087eef5/transformed/play-services-identity-18.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/king/.gradle/caches/transforms-4/9d8a51ab898c7437f0c66825757b0aa6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:18.0.1] /Users/king/.gradle/caches/transforms-4/9d8a51ab898c7437f0c66825757b0aa6/transformed/firebase-database-collection-18.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/king/.gradle/caches/transforms-4/e79293000fb3fc7fe5345bdb840082c8/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:18.0.2] /Users/king/.gradle/caches/transforms-4/e79293000fb3fc7fe5345bdb840082c8/transformed/play-services-auth-api-phone-18.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/king/.gradle/caches/transforms-4/b1fd040258879e0ce84e59deaebef006/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-appcheck-interop:17.1.0] /Users/king/.gradle/caches/transforms-4/b1fd040258879e0ce84e59deaebef006/transformed/firebase-appcheck-interop-17.1.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/king/.gradle/caches/transforms-4/eaf38c5c8ee5d98f70e8923560dae699/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:18.0.10] /Users/king/.gradle/caches/transforms-4/eaf38c5c8ee5d98f70e8923560dae699/transformed/play-services-auth-base-18.0.10/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/king/.gradle/caches/transforms-4/b2a116ad1b425706fa8a9885929fb77b/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:20.1.0] /Users/king/.gradle/caches/transforms-4/b2a116ad1b425706fa8a9885929fb77b/transformed/play-services-fido-20.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/king/.gradle/caches/transforms-4/3bf7b1ca24c1753d62b9f80beee65523/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [com.google.android.play:integrity:1.2.0] /Users/king/.gradle/caches/transforms-4/3bf7b1ca24c1753d62b9f80beee65523/transformed/integrity-1.2.0/AndroidManifest.xml:4:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/king/.gradle/caches/transforms-4/8cfcb91027dc80df7b7d353e870a7d4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/king/.gradle/caches/transforms-4/8cfcb91027dc80df7b7d353e870a7d4f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/king/.gradle/caches/transforms-4/86d1dfcd2745df835a7f303b739235dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/king/.gradle/caches/transforms-4/86d1dfcd2745df835a7f303b739235dd/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.5.0] /Users/king/.gradle/caches/transforms-4/fad6a70851b3709a77f647df1a3f6024/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.transition:transition:1.5.0] /Users/king/.gradle/caches/transforms-4/fad6a70851b3709a77f647df1a3f6024/transformed/transition-1.5.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/king/.gradle/caches/transforms-4/8ed191a622b8e19620938e77d8241269/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/king/.gradle/caches/transforms-4/8ed191a622b8e19620938e77d8241269/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/king/.gradle/caches/transforms-4/cdc3530dbe39fd044bd1f44ee3f66482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/king/.gradle/caches/transforms-4/cdc3530dbe39fd044bd1f44ee3f66482/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/king/.gradle/caches/transforms-4/f3c98b1e18d6e7cced20e6a644ec7e0e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/king/.gradle/caches/transforms-4/f3c98b1e18d6e7cced20e6a644ec7e0e/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /Users/king/.gradle/caches/transforms-4/42e914053c0beb38ef026e43dc9a536f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/king/.gradle/caches/transforms-4/42e914053c0beb38ef026e43dc9a536f/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/king/.gradle/caches/transforms-4/c446c35cb16cc5a9fe197739382cb386/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:22.0.0] /Users/king/.gradle/caches/transforms-4/c446c35cb16cc5a9fe197739382cb386/transformed/play-services-measurement-sdk-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/king/.gradle/caches/transforms-4/f14abcd40e2f816860db42b0cc2f401c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.2] /Users/king/.gradle/caches/transforms-4/f14abcd40e2f816860db42b0cc2f401c/transformed/play-services-stats-17.0.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/king/.gradle/caches/transforms-4/16c398626fc4ef695c447b8feb7d50e5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/king/.gradle/caches/transforms-4/16c398626fc4ef695c447b8feb7d50e5/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.4.0] /Users/king/.gradle/caches/transforms-4/4a9f16f51f4e511cfccba13cd9014310/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.browser:browser:1.4.0] /Users/king/.gradle/caches/transforms-4/4a9f16f51f4e511cfccba13cd9014310/transformed/browser-1.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/king/.gradle/caches/transforms-4/966275dad774f9e9ad087729edb79e8f/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.1.0] /Users/king/.gradle/caches/transforms-4/966275dad774f9e9ad087729edb79e8f/transformed/loader-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/king/.gradle/caches/transforms-4/a971b83c48660df5844c94d8bd05eee7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/king/.gradle/caches/transforms-4/a971b83c48660df5844c94d8bd05eee7/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/king/.gradle/caches/transforms-4/25f1fdafd69120a504ecddace0f9c698/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/king/.gradle/caches/transforms-4/25f1fdafd69120a504ecddace0f9c698/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /Users/king/.gradle/caches/transforms-4/d60a131f1a20ff9835bc2469aebbf586/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/king/.gradle/caches/transforms-4/d60a131f1a20ff9835bc2469aebbf586/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/king/.gradle/caches/transforms-4/2c6984bfb1e2959adbb9e9f5d7c574cb/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/king/.gradle/caches/transforms-4/2c6984bfb1e2959adbb9e9f5d7c574cb/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/king/.gradle/caches/transforms-4/09506e482a1b0c84a6f02eb41eb4b1ce/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/king/.gradle/caches/transforms-4/09506e482a1b0c84a6f02eb41eb4b1ce/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/3548566815517293172a48d309fdefd4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices-java:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/3548566815517293172a48d309fdefd4/transformed/ads-adservices-java-1.0.0-beta05/AndroidManifest.xml:5:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/king/.gradle/caches/transforms-4/7f1cb3a03b610e2c7fcf779272ec3259/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/king/.gradle/caches/transforms-4/7f1cb3a03b610e2c7fcf779272ec3259/transformed/core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/king/.gradle/caches/transforms-4/02f068dc76267c808d62125a0d132c1b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/king/.gradle/caches/transforms-4/02f068dc76267c808d62125a0d132c1b/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/king/.gradle/caches/transforms-4/57c26f8ad354907b9f15970d63e0b7b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/king/.gradle/caches/transforms-4/57c26f8ad354907b9f15970d63e0b7b2/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/king/.gradle/caches/transforms-4/5ae72c8b6e4044f1e896faea124d6aa4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/king/.gradle/caches/transforms-4/5ae72c8b6e4044f1e896faea124d6aa4/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/king/.gradle/caches/transforms-4/c13ba19a7b3fcbae226643687235bb82/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/king/.gradle/caches/transforms-4/c13ba19a7b3fcbae226643687235bb82/transformed/lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/king/.gradle/caches/transforms-4/a83366839f383a4efa15971df3248457/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/king/.gradle/caches/transforms-4/a83366839f383a4efa15971df3248457/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/king/.gradle/caches/transforms-4/48ca929dd284115d69ed412ca8ed6658/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.firebase:firebase-installations-interop:17.1.1] /Users/king/.gradle/caches/transforms-4/48ca929dd284115d69ed412ca8ed6658/transformed/firebase-installations-interop-17.1.1/AndroidManifest.xml:17:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/king/.gradle/caches/transforms-4/2e11be388527286ab048ecdbee057fb5/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.1.0] /Users/king/.gradle/caches/transforms-4/2e11be388527286ab048ecdbee057fb5/transformed/play-services-tasks-18.1.0/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/king/.gradle/caches/transforms-4/35ff2e3e664a8c24a2af27583e883b6f/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:22.0.0] /Users/king/.gradle/caches/transforms-4/35ff2e3e664a8c24a2af27583e883b6f/transformed/play-services-measurement-base-22.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/king/.gradle/caches/transforms-4/8beed274f5c4e2db68c57bd51ddb4c3a/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:19.0.0] /Users/king/.gradle/caches/transforms-4/8beed274f5c4e2db68c57bd51ddb4c3a/transformed/firebase-measurement-connector-19.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/king/.gradle/caches/transforms-4/3086ad630b4442c83b83ecc66a4c3ef9/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.7] /Users/king/.gradle/caches/transforms-4/3086ad630b4442c83b83ecc66a4c3ef9/transformed/fragment-1.5.7/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] /Users/king/.gradle/caches/transforms-4/ed47951a0f4305f7e1b8dc8e8c0fa011/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] /Users/king/.gradle/caches/transforms-4/ed47951a0f4305f7e1b8dc8e8c0fa011/transformed/activity-1.8.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/king/.gradle/caches/transforms-4/1f82f86bae57d44d0a12df2c30c2cf7f/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.google.firebase:firebase-components:18.0.0] /Users/king/.gradle/caches/transforms-4/1f82f86bae57d44d0a12df2c30c2cf7f/transformed/firebase-components-18.0.0/AndroidManifest.xml:18:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/king/.gradle/caches/transforms-4/3dae620ad79884afb30b9c6df36f1419/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.16.0] /Users/king/.gradle/caches/transforms-4/3dae620ad79884afb30b9c6df36f1419/transformed/gifdecoder-4.16.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/king/.gradle/caches/transforms-4/f55c1d2019d9b64d6de71954c1ce7743/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.6] /Users/king/.gradle/caches/transforms-4/f55c1d2019d9b64d6de71954c1ce7743/transformed/exifinterface-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/king/.gradle/caches/transforms-4/11d347a781aceec2aba2713a2f57d4cb/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/king/.gradle/caches/transforms-4/11d347a781aceec2aba2713a2f57d4cb/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/king/.gradle/caches/transforms-4/2d534755e4f3a6722b1c9ac7acc2496b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/king/.gradle/caches/transforms-4/2d534755e4f3a6722b1c9ac7acc2496b/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/king/.gradle/caches/transforms-4/b111f502fe7703befff238496ecf747e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/king/.gradle/caches/transforms-4/b111f502fe7703befff238496ecf747e/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/king/.gradle/caches/transforms-4/fea7fbbd5fd0aae9219f4e1ec060bfdf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/king/.gradle/caches/transforms-4/fea7fbbd5fd0aae9219f4e1ec060bfdf/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/king/.gradle/caches/transforms-4/6f278b238d55abca27b218b0cc0473d9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/king/.gradle/caches/transforms-4/6f278b238d55abca27b218b0cc0473d9/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/king/.gradle/caches/transforms-4/17bc92ffc8161e048aefedabe7930d2f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/king/.gradle/caches/transforms-4/17bc92ffc8161e048aefedabe7930d2f/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/king/.gradle/caches/transforms-4/52bfb690cce8d0a374487ec397bb8359/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/king/.gradle/caches/transforms-4/52bfb690cce8d0a374487ec397bb8359/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/king/.gradle/caches/transforms-4/5a2d55ff81ae290b61e710014b4463d9/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.libraries.identity.googleid:googleid:1.1.0] /Users/king/.gradle/caches/transforms-4/5a2d55ff81ae290b61e710014b4463d9/transformed/googleid-1.1.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/king/.gradle/caches/transforms-4/1823a7f794103c2b1d72aec71e372af1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/king/.gradle/caches/transforms-4/1823a7f794103c2b1d72aec71e372af1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/king/.gradle/caches/transforms-4/4d90299eecedc43ed88ce78009ee0b52/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/king/.gradle/caches/transforms-4/4d90299eecedc43ed88ce78009ee0b52/transformed/grpc-android-1.57.2/AndroidManifest.xml:5:5-44
+MERGED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
+MERGED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:23:9-148
+	android:targetSdkVersion
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/king/Desktop/projects selectio for portfolio/android devlopment/onlineshoppingapp/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:9:5-79
+MERGED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:8:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:24:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/king/.gradle/caches/transforms-4/4d90299eecedc43ed88ce78009ee0b52/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+MERGED from [io.grpc:grpc-android:1.57.2] /Users/king/.gradle/caches/transforms-4/4d90299eecedc43ed88ce78009ee0b52/transformed/grpc-android-1.57.2/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:10:22-76
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:14:9-23:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:66:9-72:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:26:9-35:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:27:9-36:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:22:9-31:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:34:9-40:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:12:9-21:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:9:9-15:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+MERGED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:30:9-38:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:16:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:34:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:32:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:15:13-84
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirebaseFirestoreKtxRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:17:13-19:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:19:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:18:17-122
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:20:13-22:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:22:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:25.0.0] /Users/king/.gradle/caches/transforms-4/01ab7efe2cbb421035c45c98bc072470/transformed/firebase-firestore-25.0.0/AndroidManifest.xml:21:17-111
+activity#com.paypal.android.sdk.payments.PaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:13:9-84
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:13:19-81
+activity#com.paypal.android.sdk.payments.PaymentMethodActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:14:9-90
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:14:19-87
+activity#com.paypal.android.sdk.payments.PaymentConfirmActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:15:9-91
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:15:19-88
+activity#com.paypal.android.sdk.payments.LoginActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:16:9-82
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:16:19-79
+activity#com.paypal.android.sdk.payments.PayPalFuturePaymentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:17:9-96
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:17:19-93
+activity#com.paypal.android.sdk.payments.FuturePaymentConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:18:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:18:19-94
+activity#com.paypal.android.sdk.payments.FuturePaymentInfoActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:19:9-94
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:19:19-91
+activity#com.paypal.android.sdk.payments.PayPalProfileSharingActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:20:9-97
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:20:19-94
+activity#com.paypal.android.sdk.payments.ProfileSharingConsentActivity
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:21:9-98
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:21:19-95
+service#com.paypal.android.sdk.payments.PayPalService
+ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [com.paypal.sdk:paypal-android-sdk:2.16.0] /Users/king/.gradle/caches/transforms-4/9f7b26405b7c71b3876c7fb23e422413/transformed/paypal-android-sdk-2.16.0/AndroidManifest.xml:24:13-73
+activity#com.google.firebase.auth.internal.GenericIdpActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:29:9-46:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:31:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:33:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:32:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:30:13-80
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:genericidp
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:35:13-45:29
+action#android.intent.action.VIEW
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:17-76
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:38:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:39:27-75
+data
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:41:17-44:51
+	android:path
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:43:21-37
+	android:host
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:42:21-49
+	android:scheme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:44:21-48
+activity#com.google.firebase.auth.internal.RecaptchaActivity
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:47:9-64:20
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:49:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:51:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:50:13-36
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:52:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:48:13-79
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:firebase.auth+data:path:/+data:scheme:recaptcha
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:53:13-63:29
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:69:13-71:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:71:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:23.0.0] /Users/king/.gradle/caches/transforms-4/853e7c41e6ba5b4f79092196a556c66e/transformed/firebase-auth-23.0.0/AndroidManifest.xml:70:17-109
+meta-data#com.google.firebase.components:com.google.firebase.database.FirebaseDatabaseKtxRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:29:13-31:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:31:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:30:17-120
+meta-data#com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar
+ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-database:21.0.0] /Users/king/.gradle/caches/transforms-4/49cc458f33bf221c58c6ae52cbe18ab3/transformed/firebase-database-21.0.0/AndroidManifest.xml:33:17-109
+meta-data#com.google.firebase.components:com.google.firebase.storage.FirebaseStorageKtxRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:31:17-118
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:21.0.0] /Users/king/.gradle/caches/transforms-4/0270c986dd253999c782d2fb8e0eaf8d/transformed/firebase-storage-21.0.0/AndroidManifest.xml:34:17-107
+service#androidx.credentials.playservices.CredentialProviderMetadataHolder
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:24:9-32:19
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:26:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:27:13-37
+	tools:ignore
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:28:13-60
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:25:13-94
+meta-data#androidx.credentials.CREDENTIAL_PROVIDER_KEY
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:29:13-31:104
+	android:value
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:31:17-101
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:30:17-76
+activity#androidx.credentials.playservices.HiddenActivity
+ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:34:9-41:20
+	android:fitsSystemWindows
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:39:13-45
+	android:enabled
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:38:13-37
+	android:configChanges
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:36:13-87
+	android:theme
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:40:13-48
+	android:name
+		ADDED from [androidx.credentials:credentials-play-services-auth:1.2.0-rc01] /Users/king/.gradle/caches/transforms-4/cfc3e2d9619ce9f35a964f3a43059809/transformed/credentials-play-services-auth-1.2.0-rc01/AndroidManifest.xml:35:13-76
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:33:9-37:51
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:35:13-36
+	android:visibleToInstantApps
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:37:13-48
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:21.1.1] /Users/king/.gradle/caches/transforms-4/8c84d9b4360839cc60a9eeec24e0c32d/transformed/play-services-auth-21.1.1/AndroidManifest.xml:34:13-89
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckKtxRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:25:13-27:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:27:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:26:17-120
+meta-data#com.google.firebase.components:com.google.firebase.appcheck.FirebaseAppCheckRegistrar
+ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-appcheck:18.0.0] /Users/king/.gradle/caches/transforms-4/b82f562d6dfe0bbde6897592e04f3510/transformed/firebase-appcheck-18.0.0/AndroidManifest.xml:29:17-117
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:24:22-65
+uses-permission#com.google.android.gms.permission.AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:27:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-ads-identifier:18.0.0] /Users/king/.gradle/caches/transforms-4/fef0f48f58004e41ba6bcd7a34a0d9b0/transformed/play-services-ads-identifier-18.0.0/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:26:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:25:22-76
+uses-permission#android.permission.ACCESS_ADSERVICES_ATTRIBUTION
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:27:5-88
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:26:22-85
+uses-permission#android.permission.ACCESS_ADSERVICES_AD_ID
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:28:5-82
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:22.0.0] /Users/king/.gradle/caches/transforms-4/132da94e38be16b42026ca2ebda2e50b/transformed/play-services-measurement-sdk-api-22.0.0/AndroidManifest.xml:28:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:27:22-79
+property
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:30:9-32:61
+	android:resource
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:32:13-58
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:31:13-65
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:37:13-39:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:39:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:22.0.0] /Users/king/.gradle/caches/transforms-4/6f361ee506f82db85c8b7277fdebe1b2/transformed/play-services-measurement-api-22.0.0/AndroidManifest.xml:38:17-139
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsKtxRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:15:13-17:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:17:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:16:17-130
+meta-data#com.google.firebase.components:com.google.firebase.installations.FirebaseInstallationsRegistrar
+ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:18:13-20:85
+	android:value
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:20:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-installations:18.0.0] /Users/king/.gradle/caches/transforms-4/a7a36cb5a96ec4e3cb8cdcbec8a9e46c/transformed/firebase-installations-18.0.0/AndroidManifest.xml:19:17-127
+meta-data#com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar
+ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:12:13-14:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:14:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common-ktx:21.0.0] /Users/king/.gradle/caches/transforms-4/80c16b5a2c4dc37189c45b09553f7810/transformed/firebase-common-ktx-21.0.0/AndroidManifest.xml:13:17-116
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:23:9-28:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:25:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:27:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:26:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:28:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:24:13-77
+meta-data#com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar
+ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-common:21.0.0] /Users/king/.gradle/caches/transforms-4/51411cfe1c8bbc9aafd27318cb202417/transformed/firebase-common-21.0.0/AndroidManifest.xml:36:17-109
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/king/.gradle/caches/transforms-4/0687ff1cf3eb33cba926dbf341abd6fd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/king/.gradle/caches/transforms-4/8e5653361b217d9e95db8238f58f2214/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /Users/king/.gradle/caches/transforms-4/8d62b65e9015d6fb8fa2b5f9283490a5/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.3.0] /Users/king/.gradle/caches/transforms-4/149fcb072c8ce3800c1b5035acee4173/transformed/play-services-base-18.3.0/AndroidManifest.xml:20:19-85
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:5-98
+	android:name
+		ADDED from [com.google.android.recaptcha:recaptcha:18.4.0] /Users/king/.gradle/caches/transforms-4/0136aba519636d026a32cd7c71b4500c/transformed/recaptcha-18.4.0/AndroidManifest.xml:9:22-95
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:22.0.0] /Users/king/.gradle/caches/transforms-4/4741a1b6b2e6edbbb474c3e782290d94/transformed/play-services-measurement-impl-22.0.0/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:30:13-85
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:35:9-38:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:36:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:39:9-43:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:42:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:43:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:22.0.0] /Users/king/.gradle/caches/transforms-4/620e97a604161cd2054b33bd7ee870c0/transformed/play-services-measurement-22.0.0/AndroidManifest.xml:40:13-87
+uses-library#android.ext.adservices
+ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:23:9-25:40
+	android:required
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from [androidx.privacysandbox.ads:ads-adservices:1.0.0-beta05] /Users/king/.gradle/caches/transforms-4/6c674c6c38bc17000040b00acc4258e2/transformed/ads-adservices-1.0.0-beta05/AndroidManifest.xml:24:13-50
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.android.onlineshoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.android.onlineshoppingapp.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/king/.gradle/caches/transforms-4/d7d2c995a9a3c3b96e28e1c6ac9057f2/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.2] /Users/king/.gradle/caches/transforms-4/de2da81760bd5c824263954c74d04de3/transformed/lifecycle-process-2.6.2/AndroidManifest.xml:30:17-78
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:18.3.0] /Users/king/.gradle/caches/transforms-4/fc485c42132d403aece4b80740c0ce53/transformed/play-services-basement-18.3.0/AndroidManifest.xml:22:13-58
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] /Users/king/.gradle/caches/transforms-4/c78054c90fa8a97e4bd3ae84e024459c/transformed/profileinstaller-1.3.0/AndroidManifest.xml:50:25-92
+uses-permission#android.permission.CAMERA
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:9:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:10:5-66
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:10:22-63
+uses-feature#android.hardware.camera
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:12:5-14:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:14:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:13:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:15:5-17:36
+	android:required
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:17:9-33
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:16:9-57
+activity#io.card.payment.CardIOActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:20:9-22:66
+	android:configChanges
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:22:13-63
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:21:13-58
+activity#io.card.payment.DataEntryActivity
+ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:23:9-70
+	android:name
+		ADDED from [io.card:android-sdk:5.5.1] /Users/king/.gradle/caches/transforms-4/4db005053d1db97fbd99347786783c83/transformed/android-sdk-5.5.1/AndroidManifest.xml:23:19-67
